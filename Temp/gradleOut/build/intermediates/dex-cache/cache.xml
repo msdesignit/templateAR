@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/martasoto/Desktop/Proyectos/VECI/VirtualUniversityTotem/Temp/gradleOut/libs/unity-classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="7443096731009c4f1edb3f24ae945743c1ad23b7">
+        <dex dex="/Users/martasoto/Desktop/Proyectos/VECI/VirtualUniversityTotem/Temp/gradleOut/build/intermediates/pre-dexed/release/unity-classes_32b7675976f5752d4151fe58a7b7fa7ee7991002.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/martasoto/.android/build-cache/fb872950b1aaf7be3a67a83479797fcb34e1914d/output/jars/libs/VuforiaUnityPlayer.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="1e5c98f1d2f1973f9a08b7849f319bcb135fe8c3">
+        <dex dex="/Users/martasoto/Desktop/Proyectos/VECI/VirtualUniversityTotem/Temp/gradleOut/build/intermediates/pre-dexed/release/VuforiaUnityPlayer_dad6659bdbeb9d60c1519f27014f3edde2d833c9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/martasoto/.android/build-cache/fb872950b1aaf7be3a67a83479797fcb34e1914d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="e29373b760f2999cd878625efe4641edd156a3d0">
+        <dex dex="/Users/martasoto/Desktop/Proyectos/VECI/VirtualUniversityTotem/Temp/gradleOut/build/intermediates/pre-dexed/release/classes_08ae88dc18af1a13f313e7abdab44b2d6c5dc5df.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/martasoto/.android/build-cache/fb872950b1aaf7be3a67a83479797fcb34e1914d/output/jars/libs/Vuforia.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="1525e08d2db7c0d6b7219dc2a141bb3ff56929ad">
+        <dex dex="/Users/martasoto/Desktop/Proyectos/VECI/VirtualUniversityTotem/Temp/gradleOut/build/intermediates/pre-dexed/release/Vuforia_f76496c72032604becb418ae38028720cb540d5f.jar" />
+    </item>
+
+</items>
